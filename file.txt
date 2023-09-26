@@ -1,2 +1,6 @@
 hello!!!
+<<<<<<< HEAD
 update3
+=======
+update4
+>>>>>>> update4
